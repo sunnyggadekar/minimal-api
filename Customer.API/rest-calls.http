@@ -1,0 +1,9 @@
+GET http://localhost:5198/api/customers
+###
+GET http://localhost:5198/api/customers/1
+###
+POST http://localhost:5198/api/customers
+###
+PUT http://localhost:5198/api/customers/1
+###
+DELETE http://localhost:5198/api/customers/1
